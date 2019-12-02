@@ -1,4 +1,4 @@
-// this is a cool modulus function
+// dev comment
 function modulus(a,b) {
     return a & b;
 };
