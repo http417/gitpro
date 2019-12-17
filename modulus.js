@@ -1,5 +1,5 @@
 // dev comment
-// take 4
+// take 6
 function modulus(a,b) {
     return a & b;
 };
