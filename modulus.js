@@ -1,5 +1,5 @@
 // dev comment
-// github take 3
+// take 4
 function modulus(a,b) {
     return a & b;
 };
